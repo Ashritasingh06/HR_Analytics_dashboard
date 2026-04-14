@@ -1,19 +1,31 @@
-# 📊 HR Analytics Dashboard
+# 👥 HR Analytics Dashboard — Power BI
 
-## Project Description
-A Power BI dashboard that provides key insights into employee data. It visualizes metrics like employee count, attrition rates, and demographic breakdowns to support data-driven HR decisions.
+Interactive Power BI dashboard analyzing employee attrition and workforce trends 
+for data-driven HR decisions.
+
+## Objective
+Help HR teams identify high-risk attrition segments and act before employees leave.
 
 ## Tools Used
-* Power BI
-* Excel (or SQL for preprocessing)
+- Power BI — Dashboard and visualizations
+- Excel — Data preprocessing
+- DAX — KPI calculations
 
 ## Key Insights
-* *Attrition Rate:* The overall attrition rate is 16.1%.
-* *Attrition by Age:* Employees between 26-35 have the highest attrition.
-* *Attrition by Job Role:* Research Scientists and Sales Representatives have a higher attrition count.
+- Overall Attrition Rate: 16.1%
+- Highest Attrition Age Group: 26–35 years
+- High-Risk Roles: Research Scientists, Sales Representatives
 
-## Dashboard Preview
-![Dashboard Screenshot](screenshot.png)
+## Dashboard Features
+- KPI Cards: total employees, attrition count, attrition rate, avg monthly income
+- Attrition by Age Group
+- Attrition by Job Role
+- Interactive Slicers: filter by department, age band, job role
+
+## Business Impact
+- Identifies which employee segments need urgent retention action
+- Removes need for manual Excel-based HR reporting
+- Supports evidence-based hiring and compensation decisions
 
 ## Author
-👩‍💻 *Ashrita* | [LinkedIn](https://www.linkedin.com/in/ashrita-singh-486527329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) | ✉ ashritasingh1212@gmail.com
+Ashrita Singh | https://www.linkedin.com/in/ashrita-singh
